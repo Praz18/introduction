@@ -11,4 +11,4 @@ This repository template was created by Eric Pogue. Credits to ChatGPT for promp
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Execute Instructions
-Executable as an HTML file or through URL. All projects available on "praz18.github.io".
+Executable as an HTML file or through URL. All projects available from "praz18.github.io".
